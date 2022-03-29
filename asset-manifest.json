@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Dijkstra-s_algorithm/static/css/main.15ee4575.css",
-    "main.js": "/Dijkstra-s_algorithm/static/js/main.e446046a.js",
+    "main.js": "/Dijkstra-s_algorithm/static/js/main.1392316a.js",
     "static/js/787.36a3e220.chunk.js": "/Dijkstra-s_algorithm/static/js/787.36a3e220.chunk.js",
     "index.html": "/Dijkstra-s_algorithm/index.html",
     "main.15ee4575.css.map": "/Dijkstra-s_algorithm/static/css/main.15ee4575.css.map",
-    "main.e446046a.js.map": "/Dijkstra-s_algorithm/static/js/main.e446046a.js.map",
+    "main.1392316a.js.map": "/Dijkstra-s_algorithm/static/js/main.1392316a.js.map",
     "787.36a3e220.chunk.js.map": "/Dijkstra-s_algorithm/static/js/787.36a3e220.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.15ee4575.css",
-    "static/js/main.e446046a.js"
+    "static/js/main.1392316a.js"
   ]
 }
