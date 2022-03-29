@@ -1,15 +1,23 @@
 {
   "files": {
-    "main.css": "/Dijkstra-s_algorithm/static/css/main.15ee4575.css",
-    "main.js": "/Dijkstra-s_algorithm/static/js/main.1392316a.js",
-    "static/js/787.36a3e220.chunk.js": "/Dijkstra-s_algorithm/static/js/787.36a3e220.chunk.js",
+    "main.css": "/Dijkstra-s_algorithm/static/css/main.10397277.chunk.css",
+    "main.js": "/Dijkstra-s_algorithm/static/js/main.826e8a78.chunk.js",
+    "main.js.map": "/Dijkstra-s_algorithm/static/js/main.826e8a78.chunk.js.map",
+    "runtime-main.js": "/Dijkstra-s_algorithm/static/js/runtime-main.adafa9b9.js",
+    "runtime-main.js.map": "/Dijkstra-s_algorithm/static/js/runtime-main.adafa9b9.js.map",
+    "static/js/2.d6697a34.chunk.js": "/Dijkstra-s_algorithm/static/js/2.d6697a34.chunk.js",
+    "static/js/2.d6697a34.chunk.js.map": "/Dijkstra-s_algorithm/static/js/2.d6697a34.chunk.js.map",
+    "static/js/3.7bd500d6.chunk.js": "/Dijkstra-s_algorithm/static/js/3.7bd500d6.chunk.js",
+    "static/js/3.7bd500d6.chunk.js.map": "/Dijkstra-s_algorithm/static/js/3.7bd500d6.chunk.js.map",
     "index.html": "/Dijkstra-s_algorithm/index.html",
-    "main.15ee4575.css.map": "/Dijkstra-s_algorithm/static/css/main.15ee4575.css.map",
-    "main.1392316a.js.map": "/Dijkstra-s_algorithm/static/js/main.1392316a.js.map",
-    "787.36a3e220.chunk.js.map": "/Dijkstra-s_algorithm/static/js/787.36a3e220.chunk.js.map"
+    "static/css/main.10397277.chunk.css.map": "/Dijkstra-s_algorithm/static/css/main.10397277.chunk.css.map",
+    "static/js/2.d6697a34.chunk.js.LICENSE.txt": "/Dijkstra-s_algorithm/static/js/2.d6697a34.chunk.js.LICENSE.txt",
+    "static/media/Node.css": "/Dijkstra-s_algorithm/static/media/start.cf9bf791.png"
   },
   "entrypoints": [
-    "static/css/main.15ee4575.css",
-    "static/js/main.1392316a.js"
+    "static/js/runtime-main.adafa9b9.js",
+    "static/js/2.d6697a34.chunk.js",
+    "static/css/main.10397277.chunk.css",
+    "static/js/main.826e8a78.chunk.js"
   ]
 }
